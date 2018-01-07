@@ -1,0 +1,106 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="terro.com" resolutions="1x" timestamp="1515351175247">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-mestre.css" crc="4179628875" ref="contato:serviços:portfólio:index"/>
+    <file name="contato.css" crc="4163573273" ref="contato"/>
+    <file name="servi_os.css" crc="3977840178" ref="serviços"/>
+    <file name="portf_lio.css" crc="4046245188" ref="portfólio"/>
+    <file name="index.css" crc="4007233178" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="maquete-eletronica.png" crc="235950778" seo="true" mt="1514737599000"/>
+    <file name="unreal-engine-demo-04.11.2017---17.53.16.19_cut_x264.mp4" crc="4293980282" seo="true" mt="1514738794000"/>
+    <file name="f2.jpg" crc="3975460276" seo="true" mt="1514739282000"/>
+    <file name="f1.jpg" crc="4158839691" seo="true" mt="1514739240000"/>
+    <file name="unreal-engine-demo-04.11.2017---13.50.43.13_cut_x264.mp4" crc="28423341" seo="true" mt="1514985169000"/>
+    <file name="turbina_f_x264.mp4" crc="525331300" seo="true" mt="1514992607000"/>
+    <file name="turbina.jpg" crc="3832302136" seo="true" mt="1514992974000"/>
+    <file name="corpo_f.mp4" crc="3779695480" seo="true" mt="1514992432000"/>
+    <file name="corpo.jpg" crc="460184518" seo="true" mt="1514992882000"/>
+    <file name="danca_f.mp4" crc="3888714645" seo="true" mt="1514992369000"/>
+    <file name="danca.jpg" crc="3835733947" seo="true" mt="1514992997000"/>
+    <file name="maquete_x264.mp4" crc="501241988" seo="true" mt="1515166666000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfólio:serviços:contato"/>
+    <file name="museutils.js" crc="3803043152" ref="index:portfólio:serviços:contato"/>
+    <file name="whatinput.js" crc="86476730" ref="index:portfólio:serviços:contato"/>
+    <file name="museconfig.js" crc="380897831" ref="index:portfólio:serviços:contato"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:serviços:contato"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:portfólio:serviços:contato"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:portfólio:serviços:contato"/>
+    <file name="webpro.js" crc="242022427" ref="index:contato"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:portfólio:serviços:contato"/>
+    <file name="require.js" crc="4157109226" ref="index:portfólio:serviços:contato"/>
+    <file name="form_check.php" crc="147359589" ref="contato"/>
+    <file name="form_throttle.php" crc="93986428" ref="contato"/>
+    <file name="form_process.php" crc="3851993751" ref="contato"/>
+    <file name="form-u848.php" crc="3802607938" ref="contato"/>
+  </folder>
+  <folder name="images">
+    <file name="logo_inface_mr.png" crc="3887565555" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bot2.png" crc="104653962" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fotogrametriaa.jpg" crc="3998907984" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="interact-crop-u619.jpg" crc="4145887545" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="multiplataforma-crop-u721.jpg" crc="378554815" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="im1a.jpg" crc="238964993" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="papel-u828-fr.png" crc="4291482309" ref="index"/>
+    <file name="botao-serviços.jpg" crc="446992497" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="botao-serviços_b.jpg" crc="167311011" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="maquete eletronica.jpg" crc="209880202" ref="serviços">
+      <caption webpage="serviços" alt=""/>
+    </file>
+    <file name="captura ra.jpg" crc="3827058818" ref="serviços">
+      <caption webpage="serviços" alt=""/>
+    </file>
+    <file name="tela 360.jpg" crc="3794800392" ref="serviços">
+      <caption webpage="serviços" alt=""/>
+    </file>
+    <file name="fotogrametria1a.jpg" crc="261179747" ref="serviços">
+      <caption webpage="serviços" alt=""/>
+    </file>
+    <file name="f1.jpg" crc="464814732" ref="serviços">
+      <caption webpage="serviços" alt=""/>
+    </file>
+    <file name="simbolo fone.png" crc="163286772" ref="contato">
+      <caption webpage="contato" alt=""/>
+    </file>
+    <file name="sibolo zap1.png" crc="407863989" ref="contato">
+      <caption webpage="contato" alt=""/>
+    </file>
+    <file name="simbolo email1.png" crc="36648526" ref="contato">
+      <caption webpage="contato" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="352005154" seo="true" mt="1515351171474" redirect="true"/>
+  <file name="portfólio.html" crc="596450" seo="true" mt="1515166782648" redirect="true"/>
+  <file name="serviços.html" crc="450177944" seo="true" mt="1514980806673" redirect="true"/>
+  <file name="contato.html" crc="488773338" seo="true" mt="1514724724676" redirect="true"/>
+</manifest>
